@@ -1,2 +1,2 @@
-# Sistem_Inventaris_Barang_KelasH
+# SistemInventarisBarang_KelasH_Kelompok2
 Sistem_Inventaris_Barang_KelasH
