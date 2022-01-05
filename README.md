@@ -2,7 +2,7 @@
 
 * Website : http://inventarisbarangtokokelash.rf.gd/
 * Tema : Sistem Inventaris Barang Toko Kelas H
-* Jenis Barang : Barang Keperluan Toko
+* Jenis Barang : Barang Barang Keperluan Toko
 * Ketua : Ryan Ramadhan (1910631170229)
 * Anggota :
   -  Syafrida Nabila Salsabila (1910631170235)
