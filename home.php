@@ -9,7 +9,7 @@
             <h1 class="h1 mb-0 text-gray-800">Dashboard Inventaris Barang (Toko Kelas H)</h1>
            
           </div>
-	 <marquee><h2>Selamat Datang di Sistem Informasi Inventaris Barang Kelompok 2 Kelas H</marquee></h2>
+	 <marquee><h2>Selamat Datang di Sistem Informasi Inventaris Barang Kelompok 2 Kelas H</h2></marquee>
 		  <br></br>
 
           <!-- Content Row -->
