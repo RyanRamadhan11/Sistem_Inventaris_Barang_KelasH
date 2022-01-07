@@ -23,7 +23,6 @@
                     <div class="col mr-2">
                         <a  href="?page=pengguna"> <div class="text-xs font-weight-bold text-info text-uppercase mb-1"><h4>Data Pengguna</h4></div>
                       
-                    </div>
                     <div class="col-auto">
                       <i class="fas fa-calendar fa-2x text-black-300"></i>
                     </div>
