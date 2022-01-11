@@ -10,7 +10,7 @@
           <!-- selamat datang -->
 		  <marquee><h2>Selamat Datang di Sistem Informasi Inventory Barang Kelompok 2 Kelas H</h2></marquee>
 		  <br></br>
-          !-- Content Row -->
+          <!-- Content Row -->
       <div class="row">
 
 			  <div class="col-xl-3 col-md-6 mb-4">
