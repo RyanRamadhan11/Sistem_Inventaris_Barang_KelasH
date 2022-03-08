@@ -383,10 +383,10 @@ mysqli_report (MYSQLI_REPORT_ERROR | MYSQLI_REPORT_STRICT);
 			   
 			     
 			   if ($page == "") {
-				   include "home.php";
+				   include "home.html";
 			   }
 			   if ($page == "home") {
-				   include "home.php";
+				   include "home.html";
 			   }
 			   ?>
     
